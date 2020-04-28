@@ -1,0 +1,5 @@
+博客地址：
+https://blog.csdn.net/peterwanghao/article/details/81221671
+
+数据库说明：
+http://andaily.com/spring-oauth-server/db_table_description.html
